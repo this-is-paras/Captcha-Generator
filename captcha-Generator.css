@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background-color: lightblue;
     display: flex;
@@ -12,6 +13,7 @@ body{
    
     
 }
+
 .container{
     width: 400px;
     border-radius: 10px;
@@ -20,6 +22,7 @@ body{
     box-shadow: 0 0 0 5px 0 rgba(0, 0, 0, 0.5);
 
 }
+
 .header{
     background-color: blueviolet;
     color: red;
@@ -27,17 +30,20 @@ body{
     margin-bottom: 10px;
     border-radius: 10px 10px 0 0;
 }
+
 .captcha{
     font-size: 2rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
+
 input{
     width: 90%;
     padding: 10px;
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
+
 button{
     border: none;
     font-size: 1.2rem;
